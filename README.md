@@ -57,3 +57,11 @@ from image_encrypt import encrypt_image, decrypt_image
 encrypt_image("photo.png", "photo_encrypted.png", "MyPassword")
 decrypt_image("photo_encrypted.png", "photo_restored.png", "MyPassword")
 ```
+
+🎯 Purpose
+
+Created for educational demonstration of basic cryptographic techniques applied to digital images.
+
+⚠ Ethical Disclaimer
+
+For academic and authorized use only.
